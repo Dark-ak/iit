@@ -14,7 +14,7 @@ const First = () => {
                 <p>bad</p>
             </div>
 
-            <div className="m-3 flex gap-5">
+            <div className="m-3 flex justify-center gap-5">
                 <div>
                     <p className="text-[14px] font-[200]">good</p>
                     <div class="h-[10px] rounded-full w-14 bg-neutral-200 dark:bg-neutral-600">

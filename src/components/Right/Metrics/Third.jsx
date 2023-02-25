@@ -14,7 +14,7 @@ const Third = () => {
 
             </div>
 
-            <div className="m-3 flex gap-2">
+            <div className="m-3 flex gap-2 justify-center">
                 <div>
                     <p className="text-[12px] font-[200]">0</p>
                     <div class="h-[8px] rounded-full w-[14px] bg-neutral-200 dark:bg-neutral-600">

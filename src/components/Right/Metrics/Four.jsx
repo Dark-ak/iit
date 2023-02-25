@@ -15,7 +15,7 @@ const Four = () => {
                 <p>medium</p>
             </div>
 
-            <div className="m-3 flex gap-2">
+            <div className="m-3 flex justify-center gap-2">
                 <div>
                     <p className="text-[12px] font-[200]">0-2</p>
                     <div class="h-[10px] rounded-full w-9 bg-neutral-200 dark:bg-neutral-600">
