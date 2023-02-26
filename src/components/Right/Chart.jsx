@@ -18,7 +18,7 @@ const Chart = () => {
 
 
     return (
-        <div className='absolute left-1/3 ml-[px]'>
+        <div>
             <AreaChart width={750} height={125} data={data}>
                 <XAxis dataKey="name"  />
                 <YAxis domain={[0,100]} tick ={false} /> 

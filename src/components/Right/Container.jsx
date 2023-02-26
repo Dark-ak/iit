@@ -21,9 +21,10 @@ const Container = () => {
                 </div>
             </div>
 
-            <Label />
 
-            <div className="flex justify-center ">
+
+            <div className="flex flex-col justify-center ">
+                <Label />
                 <Chart />
             </div>
         </div>
