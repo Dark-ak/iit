@@ -12,11 +12,11 @@
 1. Clone the repository  
 
 ```bash
-  git clone https://github.com/Dark-ak/To-do.git  
+  git clone https://github.com/Dark-ak/iit.git  
 ```
 2. Navigate to project repository  
 ```bash 
-  cd E-commerce
+  cd iit
 ```
 3. Install the dependencies 
 ```bash
